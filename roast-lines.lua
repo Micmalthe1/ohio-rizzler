@@ -1,4 +1,4 @@
-return = {
+return {
     "This will be the first and last roast of the night, as we've already used up your entire vocabulary.",
     "It seems like you were probably a slippery baby, right?",
     "Sorry, I can't think of an insult dumb enough for you to understand.",
